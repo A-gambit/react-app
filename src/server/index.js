@@ -1,7 +1,4 @@
 import express from 'express'
-import React from 'react'
-import Router from 'react-router'
-import routes from '../client/pages/routes'
 import render from './render'
 
 let app = express()
