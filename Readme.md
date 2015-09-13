@@ -13,5 +13,10 @@ $ npm install
 
 ```
 $ gulp
-$ npm start
+```
+
+## Debug
+
+```
+$ npm run debug
 ```
