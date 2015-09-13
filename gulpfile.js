@@ -6,7 +6,7 @@ var minifyCSS = require('gulp-minify-css')
 var concat = require('gulp-concat')
 var autoprefixer = require('gulp-autoprefixer')
 var stylus = require('gulp-stylus')
-var Filter = require('gulp-filter')
+
 
 var tasks = ['client', 'server']
 var autoprefixerBrowsers = [
