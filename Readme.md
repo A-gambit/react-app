@@ -1,6 +1,6 @@
 # React App with Server Rendaring
 
-You can use React/Bable/Stylus on client-sise and Bable - on server-side
+You can use React/Bable/Stylus on the client-side and Bable on the server.
 
 ## Installation
 
